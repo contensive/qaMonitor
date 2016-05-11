@@ -1,0 +1,9 @@
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\bin\Debug\ContensiveQAMonitor.dll
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\bin\Debug\ContensiveQAMonitor.pdb
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\bin\Debug\ContensiveQAMonitor.xml
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\bin\Debug\CPBase.dll
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\obj\Debug\Resources.resources
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\obj\Debug\ContensiveQAMonitor.vbproj.GenerateResource.Cache
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\obj\Debug\ContensiveQAMonitor.dll
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\obj\Debug\ContensiveQAMonitor.xml
+C:\Users\kmaAdmin\Documents\GitHub\qaMonitor\ContensiveQAMonitor\obj\Debug\ContensiveQAMonitor.pdb
